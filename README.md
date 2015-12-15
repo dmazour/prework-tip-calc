@@ -36,6 +36,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 Describe any challenges encountered while building the app.
 
 I couldn't get the decimals out to two digits.
+I couldn't change the labels on the segmentedControl programatically.
 
 ## License
 
